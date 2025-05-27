@@ -139,10 +139,10 @@ pnpm run setup
 
 ## Використання змінних оточення
 1. Напишіть скрипт, який буде читати довільну змінну оточення та друкувати її значення у консоль.
-	![[Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-11-02.png)
+![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-11-02.png)
 2. Задайте різне значення змінної оточення на різних рівнях (ОС, сесія терміналу, окремий запуск скрипта, dotEnv файл) та дослідіть пріоритетність їх застосування.
 	1. Системна змінна ОС
-		![[Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-07-20.png)
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-07-20.png)
 		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-00-29.png)
 	2. Сесія терміналу
 		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-01-55.png)
