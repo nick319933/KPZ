@@ -8,48 +8,48 @@
 - `content`: текст, необов’язковий
 - `createdAt`: дата створення, автоматично заповнюється
 - `updatedAt`: дата оновлення, автоматично оновлюється
-	![[Screenshot from 2025-05-09 11-51-11.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-09%2011-51-11.png)
 
 ## 2. Створити та застосувати міграцію:
 - Згенерувати міграцію для нової сутності.
-    ![[photo_2025-05-09_11-19-21.jpg]]
-    ![[Screenshot from 2025-05-09 11-36-26.png]]
+    ![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/photo_2025-05-09_11-19-21.jpg)
+    ![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-09%2011-36-26.png)
 - Запустити міграцію через CLI.
-    ![[Screenshot from 2025-05-09 11-22-44.png]]
+    ![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-09%2011-22-44.png)
 - Перевірити у базі даних (наприклад, через pgAdmin або консоль), що структура таблиці відповідає очікуваній.
-	![[Screenshot from 2025-05-09 11-37-48.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-09%2011-37-48.png)
 
 ## 3. Реалізувати RESTful API для CRUD-операцій:
 - Використовувати контролер, DTO, роутер та сервіс за прикладом реалізації для User.
-	![[Screenshot from 2025-05-22 15-53-03.png]]
-	![[Screenshot from 2025-05-22 15-53-22.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2015-53-03.png)
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2015-53-22.png)
 - Create: створення нового поста
-	![[Screenshot from 2025-05-22 16-02-02.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2016-02-02.png)
 - Read:
 	- отримання всіх постів
-		![[Screenshot from 2025-05-22 16-03-41.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2016-03-41.png)
 	- отримання одного поста за ID
-		![[Screenshot from 2025-05-22 16-04-42.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2016-04-42.png)
 
 - Update: оновлення поста за ID
-    ![[Screenshot from 2025-05-22 16-07-05.png]]
+    ![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2016-07-05.png)
 - Delete: видалення поста за ID
-	![[Screenshot from 2025-05-22 16-07-45.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2016-07-05.png)
 
 ## 5. Протестувати REST API через Postman:
 - Створити окрему колекцію для запитів.
-    ![[Screenshot from 2025-05-22 17-03-09.png]]
+    ![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2017-03-09.png)
 - Додати приклади:
 	- створення поста:
-		![[Screenshot from 2025-05-22 17-04-02.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2017-04-02.png)
 	- отримання всіх постів:
-		![[Screenshot from 2025-05-22 17-05-46.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2017-05-46.png)
 	- отримання поста за ID:
-		![[Screenshot from 2025-05-22 17-06-34.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2017-06-34.png)
 	- оновлення поста:
-		![[Screenshot from 2025-05-22 17-07-38.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2017-07-38.png)
 	- видалення поста:
-		![[Screenshot from 2025-05-22 17-08-23.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR4/screenshots/Screenshot%20from%202025-05-22%2017-08-23.png)
 
 ## Висновок:
 - Коментарі щодо особливостей реалізації або складнощів під час виконання:
