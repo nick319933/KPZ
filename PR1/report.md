@@ -2,7 +2,7 @@
 
 ## Частина 1
 Створюємо репозиторій та робимо перший коміт
-![Screenshot]([./screenshots/Screenshot from 2025-05-05 19-11-15.png](https://github.com/nick319933/KPZ/blob/main/PR1/screenshots/Screenshot%20from%202025-05-05%2019-11-15.png))
+![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR1/screenshots/Screenshot%20from%202025-05-05%2019-11-15.png)
 
 Робимо зміни у репозиторій та комітемо їх
 ![[Screenshot from 2025-05-05 19-22-11.png]]
