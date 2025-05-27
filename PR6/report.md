@@ -26,35 +26,38 @@
 
 ## React компоненти
 1. React компонент для відображення списку постів
-	![[Screenshot from 2025-05-27 21-20-40.png]]
-	![[Screenshot from 2025-05-27 21-20-56.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-20-40.png)
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-20-56.png)
 2. React компонент для редагування поста
-	![[Screenshot from 2025-05-27 21-19-33.png]]![[Screenshot from 2025-05-27 21-21-26.png]]
-3. React компонент для створення нового поста
-	![[Screenshot from 2025-05-27 21-22-31.png]]
-	![[Screenshot from 2025-05-27 21-23-16.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-19-33.png)
+![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-21-26.png)
+4. React компонент для створення нового поста
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-22-31.png)
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-23-16.png)
 
 ## Роутери
 1. Роутер для React компоненту для відображення списку постів
-	![[Screenshot from 2025-05-27 21-25-20.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-25-20.png)
 2. Роутер для React компоненту для редагування поста
-	![[Screenshot from 2025-05-27 21-27-12.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-27-12.png)
 3. Роутер для React компоненту для створення нового поста
-	![[Screenshot from 2025-05-27 21-27-50.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-27-50.png)
 
 ## Mок-функцій
-![[Screenshot from 2025-05-27 21-28-56.png]]
+![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-28-56.png)
 
 
 ## Результати роботи:
 1. Список постів
-	![[Screenshot from 2025-05-27 21-32-01.png]]
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-32-01.png)
 2. Редагування поста
-	![[Screenshot from 2025-05-27 21-34-08.png]]![[Screenshot from 2025-05-27 21-34-45.png]]![[Screenshot from 2025-05-27 21-35-02.png]]
-3. Видалення поста
-	![[Screenshot from 2025-05-27 21-35-48.png]]
-	![[Screenshot from 2025-05-27 21-35-56.png]]
-4. Створення поста
-	![[Screenshot from 2025-05-27 21-36-51.png]]
-	![[Screenshot from 2025-05-27 21-37-04.png]]
-	![[Screenshot from 2025-05-27 21-37-37.png]]
+![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-34-08.png)
+![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-34-45.png)
+![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-35-02.png)
+4. Видалення поста
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-35-48.png)
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-35-56.png)
+5. Створення поста
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-36-51.png)
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-37-04.png)
+	![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR6/screenshots/Screenshot%20from%202025-05-27%2021-37-37.png)
