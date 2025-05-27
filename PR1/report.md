@@ -2,8 +2,7 @@
 
 ## Частина 1
 Створюємо репозиторій та робимо перший коміт
-![screenshots](./Screenshot from 2025-05-05 19-11-15.png)
-
+![screenshot](./screenshots/Screenshot from 2025-05-05 19-11-15.png)
 
 Робимо зміни у репозиторій та комітемо їх
 ![[Screenshot from 2025-05-05 19-22-11.png]]
