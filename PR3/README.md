@@ -142,12 +142,12 @@ pnpm run setup
 	![[Screenshot from 2025-05-08 14-11-02.png]]
 2. Задайте різне значення змінної оточення на різних рівнях (ОС, сесія терміналу, окремий запуск скрипта, dotEnv файл) та дослідіть пріоритетність їх застосування.
 	1. Системна змінна ОС
-		![[Screenshot from 2025-05-08 14-07-20.png]]
-		![[Screenshot from 2025-05-08 14-00-29.png]]
+		![[Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-07-20.png)
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-00-29.png)
 	2. Сесія терміналу
-		![[Screenshot from 2025-05-08 14-01-55.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-01-55.png)
 	3. Окремий запуск скрипта
-		![[Screenshot from 2025-05-08 14-03-40.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-03-40.png)
 	4. `.env` файл
-		![[Screenshot from 2025-05-08 14-05-25.png]]
-		![[Screenshot from 2025-05-08 14-16-48.png]]
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-05-25.png)
+		![Screenshot](https://github.com/nick319933/KPZ/blob/main/PR3/screenshots/Screenshot%20from%202025-05-08%2014-16-48.png)
